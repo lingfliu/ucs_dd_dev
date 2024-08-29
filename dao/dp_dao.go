@@ -2,9 +2,10 @@ package dao
 
 import (
 	"fmt"
-	"ucs_dd_dev/coder"
-	"ucs_dd_dev/data/rtdb"
-	"ucs_dd_dev/ulog"
+
+	"github.com/lingfliu/ucs_dd_dev/coder"
+	"github.com/lingfliu/ucs_dd_dev/data/rtdb"
+	"github.com/lingfliu/ucs_dd_dev/ulog"
 )
 
 /**

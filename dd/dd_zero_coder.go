@@ -3,7 +3,8 @@ package dd
 import (
 	"bytes"
 	"context"
-	"ucs_dd_dev/utils"
+
+	"github.com/lingfliu/ucs_dd_dev/utils"
 )
 
 type DdZeroCoder struct {

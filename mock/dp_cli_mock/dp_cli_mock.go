@@ -6,10 +6,11 @@ import (
 	"os"
 	"os/signal"
 	"time"
-	"ucs_dd_dev/coder"
-	"ucs_dd_dev/dd"
-	"ucs_dd_dev/ulog"
-	"ucs_dd_dev/utils"
+
+	"github.com/lingfliu/ucs_dd_dev/coder"
+	"github.com/lingfliu/ucs_dd_dev/dd"
+	"github.com/lingfliu/ucs_dd_dev/ulog"
+	"github.com/lingfliu/ucs_dd_dev/utils"
 )
 
 const (

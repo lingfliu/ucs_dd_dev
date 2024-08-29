@@ -1,4 +1,4 @@
-module ucs_dd_dev
+module github.com/lingfliu/ucs_dd_dev
 
 go 1.21.6
 

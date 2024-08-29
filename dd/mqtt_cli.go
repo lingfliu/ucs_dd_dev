@@ -9,8 +9,8 @@ import (
 	"time"
 
 	mqtt "github.com/eclipse/paho.mqtt.golang"
-	"github.com/lingfliu/ucs_core/ulog"
-	"github.com/lingfliu/ucs_core/utils"
+	"github.com/lingfliu/ucs_dd_dev/ulog"
+	"github.com/lingfliu/ucs_dd_dev/utils"
 )
 
 type MqttCli struct {
