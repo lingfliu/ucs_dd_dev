@@ -1,6 +1,6 @@
 package msg
 
-import "github.com/lingfliu/ucs_core/model"
+import "github.com/lingfliu/ucs_dd_dev/model"
 
 /**
  * 寻址模式下的数据消息结构
